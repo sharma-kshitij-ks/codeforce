@@ -1,2 +1,2 @@
 # codeforce 
-Hello, welcome to some of the tutorial reference projects.
+Some of my referenced projects.
